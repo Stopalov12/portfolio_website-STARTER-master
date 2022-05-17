@@ -65,8 +65,8 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        My interest towards blockchain technology started in 2019 when I first
-        invested in a cryptocurrency. Not much after, I've decided to jump into
+        My interest in blockchain technology started in 2019 when I first
+        invested in a cryptocurrency. After that I've decided to jump into
         a new field and start learning blockchain development. I believe
         decentralised applications are the future and I'm very excited to learn
         more about them and build amazing products.
