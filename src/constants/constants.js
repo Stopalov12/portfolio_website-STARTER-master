@@ -20,13 +20,13 @@ export const projects = [
     id: 1,
   },
   {
-    title: "L2G DAO",
+    title: "GPT3-product",
     description:
-      "You can participate in this simple DAO, earn some tokens and vote on community proposals. Your vote matters!",
-    image: "/images/dao.png",
-    tags: ["React", "Thirdweb", "Solidity", "ethers.js"],
-    code: "https://github.com/Stopalov12/l2_game_dao",
-    source: "https://l2-game-dao.vercel.app/",
+      "This is a simple product page with modern design patterns. It is built with React and Figma.",
+    image: "/images/gpt3.png",
+    tags: ["React", "Figma"],
+    code: "https://github.com/Stopalov12/gpt3_stoyan",
+    source: "https://gpt3-stoyan.vercel.app/",
     id: 2,
   },
   {

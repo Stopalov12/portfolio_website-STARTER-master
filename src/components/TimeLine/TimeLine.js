@@ -65,11 +65,15 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        My interest in blockchain technology started in 2019 when I first
-        invested in a cryptocurrency. After that I've decided to jump into
-        a new field and start learning blockchain development. I believe
-        decentralised applications are the future and I'm very excited to learn
-        more about them and build amazing products.
+        My interest in coding appeared at the end of 2020 when I first started
+        to learn the basic concepts of JavaScript. I decided to take an
+        untraditional course in my education and started learning through online
+        courses, tutorials, and books. Through the process of self-study, I
+        learned how to find what I'm looking for and solve complex situations on
+        my own. After I built my first projects I felt immense satisfaction and
+        since then my passion for coding has been growing every day. I know my
+        curiosity and desire to learn will lead me and my team to a better
+        place, building better products.
       </SectionText>
 
       <CarouselButtons>
